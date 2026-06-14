@@ -31,6 +31,9 @@ Các tài liệu và case studies thực tế từ khóa học IS/IT Governance 
 - **Chứng chỉ hoàn thành khóa học:**
   - [Chứng chỉ gốc](Coursera%20IS-IT%20Governance/Certification)
   - [Hình ảnh chứng chỉ](Coursera%20IS-IT%20Governance/Certification-Img.png)
+
+  ![Chứng chỉ IS/IT Governance](Coursera%20IS-IT%20Governance/Certification-Img.png)
+
 *(Lưu ý: Có file chứng chỉ bổ sung ở thư mục gốc: [Cert - IT.IS Gover](Cert%20-%20IT.IS%20Gover))*
 
 ### 5. 🤖 Ứng Dụng AI trong Phân Tích Dữ Liệu
