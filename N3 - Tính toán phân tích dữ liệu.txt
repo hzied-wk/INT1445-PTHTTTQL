@@ -1,0 +1,26 @@
+Chủ đề nhóm 3: Tính toán phân tích dữ liệu
+
+1. Bối cảnh xử lý dữ liệu
+Nội dung đề cập đến hai tình huống thực tế mà nhân sự thường gặp phải:
+- Tình huống 1: Nhận file Excel lớn từ sếp, yêu cầu tổng hợp, phân tích, vẽ biểu đồ và nêu xu hướng báo cáo trước giờ chiều.
+- Tình huống 2: Phân tích rủi ro tài chính, bảng cân đối kế toán và dòng tiền từ các file dữ liệu phức tạp trước 17h.
+
+2. Quy trình 3 bước phối hợp với AI
+Quy trình được gợi ý để đạt hiệu quả cao nhất:
+- Bước 1: Kiểm tra dữ liệu đầu vào: Đảm bảo file Excel có đủ các cột thông tin quan trọng và không có lỗi nhập liệu trước khi đưa lên AI.
+- Bước 2: Lựa chọn công cụ phù hợp:
+    + ChatGPT: Dùng để tóm tắt các bảng nhỏ hoặc xử lý nhanh các yêu cầu trực quan.
+    + Claude 3/Gemini: Dùng cho các báo cáo dài nhiều trang hoặc dữ liệu có độ phức tạp cao.
+- Bước 3: Viết Prompt (Câu lệnh) chuẩn: Đây là phần quan trọng nhất để AI hiểu đúng ý đồ của người dùng.
+
+3. Công thức viết Prompt "5 thành phần"
+File ghi âm nhấn mạnh một công thức chuẩn logic để ra lệnh cho AI:
+- Vai trò (Role): Yêu cầu AI đóng vai là một chuyên gia (Ví dụ: Chuyên gia phân tích dữ liệu logistics hoặc chuyên gia viễn thông).
+- Mục tiêu (Objective): Xác định rõ kết quả cần đạt được (Ví dụ: Phân tích file để dựng biểu đồ phản ánh hiệu suất).
+- Dữ liệu đầu vào (Input): Chỉ định rõ file đính kèm.
+- Ràng buộc (Constraints): Các yêu cầu cụ thể về chỉ số (tỷ lệ hoàn đơn, thời gian giao trung bình, lưu lượng truyền dẫn...) và loại biểu đồ (cột, tròn, xu hướng).
+- Đầu ra (Output): Định dạng kết quả mong muốn (file Excel có kèm biểu đồ, bản phân tích logic để trình ban lãnh đạo).
+
+4. Thông điệp cốt lõi
+- Thông điệp: AI không thay thế con người, nhưng giúp con người mạnh hơn, nhanh hơn và tự tin hơn. 
+- Rút ra: Kỹ năng quan trọng nhất là biết cách tận dụng AI như một đồng nghiệp đắc lực trong các quyết định quan trọng.
